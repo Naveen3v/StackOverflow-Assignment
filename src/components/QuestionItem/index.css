@@ -1,0 +1,66 @@
+.q-item {
+  display: flex;
+  flex-direction: row;
+}
+.left-q {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+}
+
+.right-q {
+  display: flex;
+  flex-direction: column;
+  margin-right: 30%;
+}
+.q-li-para {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: blue;
+}
+.tags {
+  display: flex;
+  flex-direction: row;
+  padding: 1%;
+}
+.tag-btn {
+  height: 30px;
+  width: 80px;
+  border: 1px solid black;
+  background-color: transparent;
+  border-radius: 20px;
+  font-size: 10px;
+  font-family: 'Roboto';
+  margin-left: 1%;
+}
+.q-li-para-2 {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.count {
+  display: flex;
+  flex-direction: row;
+}
+.text {
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  display: flex;
+  flex-direction: row;
+}
+.dist {
+  font-family: 'Roboto';
+  font-size: 10px;
+  margin-left: 30%;
+}
+.dist-1 {
+  font-family: 'Roboto';
+  font-size: 10px;
+  margin-left: 10%;
+}
+.dis-icon {
+  height: 20px;
+  width: 30px;
+  margin-left: 20%;
+}
